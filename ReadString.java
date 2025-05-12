@@ -57,7 +57,7 @@ public final class ReadString {
         if (strLength.isEmpty()) {
             return 0;
         } else {
-            return 1 + StringLength(strLength.substring(1));
+            return 1 + stringLength(strLength.substring(1));
         }
     }
 }
