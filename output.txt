@@ -1,0 +1,5 @@
+Length of the string: 16
+Length of the string: 3
+Empty Line.
+Length of the string: 3
+Length of the string: 6
